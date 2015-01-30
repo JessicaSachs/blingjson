@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='blingjson',
-    version='0.1.0',
+    version='0.1.1',
     author='Jessica Sachs',
     author_email='jess@sheeptest.com',
     packages=['blingjson'],
