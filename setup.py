@@ -8,9 +8,9 @@ setup(
     packages=['blingjson'],
     scripts=['bin/example.py','bin/blingy_example.py'],
     url='http://pypi.python.org/pypi/blingjson/',
+    downloadUrl='https://github.com/jessicasachs/blingjson/tarball/0.1',
     license='LICENSE.txt',
-    description='',
-    long_description=open('README.md').read(),
+    description='Module for colorful JSON syntax highlighting. With emoji bling.',
     install_requires=[
         "Pygments==2.0.2",
         "emoji==0.1.0",
